@@ -1,208 +1,148 @@
+<!-- ============ HEADER BANNER ============ -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20There!%20%F0%9F%91%8B&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=60&descSize=20" width="100%"/>
 
-\<!-- ======================================================= -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Backend+%7C+Frontend+%7C+APIs;I+love+solving+complex+problems;Building+scalable+web+applications" alt="Typing SVG" />
+</a>
 
-\<!--              BEWKET MENGIE - GITHUB PROFILE             -->
+<br/>
 
-\<!-- ======================================================= -->
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=2c5364)
+![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=f5c518)
 
-\<div align="center">
-
-# 👋 Hi There, I'm Bewket Mengie
-
-### Full-Stack Web Developer | Software Engineer | Problem Solver
-
-\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Frontend+%26+Backend+Developer;Building+Scalable+Web+Applications;Turning+Ideas+Into+Digital+Solutions](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=23\&duration=3000\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=650\&lines=Full-Stack+Web+Developer;Frontend+%26+Backend+Developer;Building+Scalable+Web+Applications;Turning+Ideas+Into+Digital+Solutions)" alt="Typing SVG" />
-
-\<p>
-&#x20; \<a href="[https://github.com/BEWKET-MENGIE](https://github.com/BEWKET-MENGIE)">
-&#x20;   \<img src="[https://komarev.com/ghpvc/?username=BEWKET-MENGIE&label=Profile%20Views&color=0e75b6&style=for-the-badge](https://komarev.com/ghpvc/?username=BEWKET-MENGIE\&label=Profile%20Views\&color=0e75b6\&style=for-the-badge)" alt="Profile views"/>
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/BEWKET-MENGIE?tab=followers](https://github.com/BEWKET-MENGIE?tab=followers)">
-&#x20;   \<img src="[https://img.shields.io/github/followers/BEWKET-MENGIE?label=Followers&style=for-the-badge&color=blue](https://img.shields.io/github/followers/BEWKET-MENGIE?label=Followers\&style=for-the-badge\&color=blue)" alt="GitHub followers"/>
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/BEWKET-MENGIE](https://github.com/BEWKET-MENGIE)">
-&#x20;   \<img src="[https://img.shields.io/github/stars/BEWKET-MENGIE?affiliations=OWNER&style=for-the-badge&color=yellow](https://img.shields.io/github/stars/BEWKET-MENGIE?affiliations=OWNER\&style=for-the-badge\&color=yellow)" alt="GitHub stars"/>
-&#x20; \</a>
-\</p>
-
-\</div>
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-Hello! I'm **Bewket Mengie**, a passionate Full-Stack Web Developer who enjoys designing, developing, and building modern, scalable, and user-friendly web applications.
+I am a **passionate full-stack web developer** working in both **backend** and **frontend** development. I love solving complex problems, building scalable web applications, and working with modern technologies.
 
-I work across both frontend and backend development, transforming ideas into functional digital solutions using modern technologies.
-
-I enjoy solving challenging problems, designing efficient software architectures, developing RESTful APIs, managing databases, and creating intuitive user experiences.
-
-### 💡 What I Do
-
-- 🌐 Develop responsive and interactive web applications.
-- ⚙️ Build scalable backend systems and RESTful APIs.
-- 🎨 Design clean, modern, and user-friendly interfaces.
-- 🗄️ Design and manage relational and NoSQL databases.
-- 🔐 Implement authentication, authorization, and role-based access control.
-- 🔗 Integrate frontend applications with backend services.
-- 🚀 Build maintainable and scalable full-stack applications.
-- 📚 Continuously learn and explore emerging technologies.
-
-### 🎯 My Current Focus
-
-- Advanced Full-Stack Development.
-- Next.js and TypeScript.
-- NestJS backend architecture.
-- Prisma ORM and PostgreSQL.
-- Software architecture and clean code.
-- Scalable SaaS applications.
+- 🔭 I'm currently working on **scalable full-stack web applications**
+- 🌱 I'm always learning **new technologies, architecture patterns, and best practices**
+- 🤝 I'm open to **collaboration, freelance projects, and job opportunities**
+- 💬 Ask me about **JavaScript, TypeScript, React, Node.js, APIs, and databases**
+- ⚡ Fun fact: *I turn coffee into clean code* ☕
+- 📍 Based in **Ethiopia 🇪🇹**
 
 ---
 
-## 🛠️ Technical Skills
+## ⚡ Skills
 
-### 💻 Programming Languages
+### 📂 Languages
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,js,ts](https://skillicons.dev/icons?i=html,css,js,ts)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cpp,html,css&theme=dark" />
+</p>
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,sass,redux,vite&theme=dark" />
+</p>
 
-### ⚙️ Backend Development
+### 🧰 Backend, Frameworks & Libraries
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=nodejs,express,nestjs](https://skillicons.dev/icons?i=nodejs,express,nestjs)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,laravel,spring,graphql,socketio&theme=dark" />
+</p>
 
-### 🗄️ Databases & ORM
+### 🗄️ Databases
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma](https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,supabase,prisma&theme=dark" />
+</p>
 
-### 🔐 API Development & Authentication
+### 🛠️ Tools & DevOps
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge\&logo=zod\&logoColor=white)"/>
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,nginx,linux,aws,vercel,netlify,postman,vscode,figma,jest,npm,yarn&theme=dark" />
+</p>
 
-- RESTful API Development
-- JWT Authentication
-- Role-Based Access Control (RBAC)
-- Data Validation
-- API Integration
+### 🧠 Concepts & Practices
 
-### 🧰 Development Tools
-
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=vscode,git,github,postman,npm](https://skillicons.dev/icons?i=vscode,git,github,postman,npm)" />
-\</p>
-
-### 📊 Additional Technologies
-
-- Responsive Web Design
-- TypeScript Application Architecture
-- Database Design and Management
-- Prisma Migrations
-- Environment Configuration
-- Version Control and Git Workflows
+![REST APIs](https://img.shields.io/badge/REST_APIs-0f2027?style=flat-square&logo=postman&logoColor=white)
+![JWT Auth](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-2c5364?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-38B2AC?style=flat-square)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-C21325?style=flat-square&logo=jest&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean_Code-43853D?style=flat-square)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I Do
 
-Here are some of the projects I have worked on or am developing.
-
-### 🏨 Online Hotel Management System
-
-A full-stack hotel management application designed to manage hotel operations and streamline business processes.
-
-**Technologies:** Next.js, NestJS, Prisma, PostgreSQL, Tailwind CSS.
-
-### 🏫 School Management System
-
-A school management platform designed for Ethiopian secondary schools (Grades 9–12), supporting academic and administrative management.
-
-**Technologies:** Next.js, TypeScript, NestJS, Prisma, PostgreSQL.
-
-### 📚 Evangadi Book Store
-
-A full-stack online bookstore application for managing books, customers, orders, and payment integration.
-
-**Technologies:** React, Vite, Express.js, TypeScript, Prisma, PostgreSQL.
-
-### 👨‍💼 Employee Management System
-
-A web-based application for managing employee information and organizational records.
-
-**Technologies:** React, Express.js, MySQL, Bootstrap.
+| 🌐 Frontend | ⚙️ Backend | 🗃️ Data & Deployment |
+|:-----------|:-----------|:---------------------|
+| Responsive, accessible UIs | RESTful & GraphQL APIs | Database design & optimization |
+| Reusable component systems | Authentication & authorization | Docker & containerization |
+| State management | Real-time apps (WebSockets) | Cloud deployment & CI/CD |
+| Performance optimization | Secure, scalable architecture | Monitoring & version control |
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Stats
 
-\<div align="center">
+<div align="center">
 
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=BEWKET-MENGIE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=BEWKET-MENGIE\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)" alt="GitHub Statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
-\<img width="49%" src="[https://github-readme-streak-stats.herokuapp.com/?user=BEWKET-MENGIE&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=BEWKET-MENGIE\&theme=tokyonight\&hide_border=true)" alt="GitHub Streak"/>
+<br/>
 
-\<img width="55%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=BEWKET-MENGIE&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=BEWKET-MENGIE\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Top Languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 
-\</div>
+<br/><br/>
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
 
-## 📊 Contribution Activity
-
-\<div align="center">
-
-\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=BEWKET-MENGIE&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=BEWKET-MENGIE\&theme=tokyo-night\&hide_border=true)" width="100%" alt="Contribution Activity Graph"/>
-
-\</div>
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 📌 Featured Projects
 
-I'm always interested in connecting with developers, collaborating on exciting projects, sharing knowledge, and exploring new opportunities.
+| Project | Description | Tech Stack |
+|:--------|:------------|:-----------|
+| 🛒 **[Project One](https://github.com/YOUR_GITHUB_USERNAME/project-one)** | Full-stack e-commerce platform with payments and admin dashboard | React, Node.js, MongoDB |
+| 💬 **[Project Two](https://github.com/YOUR_GITHUB_USERNAME/project-two)** | Real-time chat application with authentication | Next.js, Socket.io, PostgreSQL |
+| 📝 **[Project Three](https://github.com/YOUR_GITHUB_USERNAME/project-three)** | REST API for a task and project management system | Express, TypeScript, Docker |
 
-\<div align="center">
-
-\<a href="[https://github.com/BEWKET-MENGIE](https://github.com/BEWKET-MENGIE)">   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)"/> \</a> \<a href="YOUR_LINKEDIN_URL">   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/> \</a> \<a href="YOUR_FACEBOOK_URL">   \<img src="[https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)"/> \</a> \<a href="[https://wa.me/251918410399](https://wa.me/251918410399)">   \<img src="[https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)"/> \</a> \<a href="mailto\:YOUR_EMAIL">   \<img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)"/> \</a>
-
-### 📞 Contact Information
-
-**Phone / WhatsApp:** +251 918 410 399
-
-**Email:** YOUR_EMAIL
-
-**GitHub:** [BEWKET-MENGIE](https://github.com/BEWKET-MENGIE)
-
-**LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
-
-\</div>
+> 💡 Replace these with your real projects, or pin your best repositories on your profile.
 
 ---
 
-## 💬 Developer Philosophy
+## 📬 Let's Connect
 
-> "Great software is not just about writing code; it's about solving real-world problems, creating meaningful experiences, and continuously improving."
+<div align="center">
 
-\<div align="center">
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="tel:+251918410399"><img src="https://img.shields.io/badge/Phone-+251%20918%20410%20399-25D366?style=for-the-badge&logo=phone&logoColor=white" /></a>
+<a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://t.me/+251918410399"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
-### ⭐ Thanks for visiting my GitHub profile!
+</div>
 
-**Let's build something amazing together! 🚀**
+| 📧 Email | 💼 LinkedIn | 📱 Phone | 📘 Facebook |
+|:--------:|:-----------:|:--------:|:-----------:|
+| YOUR_EMAIL@gmail.com | [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME) | [+251 918 410 399](tel:+251918410399) | [facebook.com/YOUR_FACEBOOK_USERNAME](https://www.facebook.com/YOUR_FACEBOOK_USERNAME) |
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:38BDF8&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:0F172A,50:0369A1,100:38BDF8\&height=120\&section=footer)" width="100%" alt="Footer"/>
+---
 
-\</div>
+<div align="center">
+
+### 💡 *"First, solve the problem. Then, write the code."*
+
+<br/>
+
+⭐ **If you like my work, don't forget to star a repository!** ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>
